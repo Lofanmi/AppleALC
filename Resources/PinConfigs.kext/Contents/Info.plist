@@ -7195,6 +7195,20 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>Custom ALC897 by Lofanmi  for Huananzhi X99</string>
+					<key>CodecID</key>
+					<integer>283904151</integer>
+					<key>ConfigData</key>
+					<data>AUccEAFHHUABRx4RAUcfAQFnHBEBZx1gAWceAQFnHwEBVxwSAVcdEAFXHgEBVx8BAXccFAF3HSABdx5FAXcfAQG3HCABtx1AAbceIQG3HwIBhxwwAYcdkAGHHqEBhx8BAaccPwGnHTABpx6BAacfAQGXHEABlx2QAZceoQGXHwIBRwwCAbcMAg==</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>88</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
 					<key>CodecID</key>
 					<integer>283904153</integer>
 					<key>Comment</key>
